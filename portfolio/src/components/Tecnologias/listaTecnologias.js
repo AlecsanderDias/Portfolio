@@ -1,12 +1,12 @@
 const linguagens = [
-    {
-        nomeLinguagem: "html5",
-        linkIconeLinguagem: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg",
-    },
-    {
-        nomeLinguagem: "css3",
-        linkIconeLinguagem: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg",
-    },
+    // {
+    //     nomeLinguagem: "html5",
+    //     linkIconeLinguagem: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg",
+    // },
+    // {
+    //     nomeLinguagem: "css3",
+    //     linkIconeLinguagem: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg",
+    // },
     {
         nomeLinguagem: "javascript",
         linkIconeLinguagem: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg",
