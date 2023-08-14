@@ -5,7 +5,7 @@ import Projetos from '../Projetos';
 
 function Conteudo() {
   return (
-    <div className='flex flex-col justify-center items-center my-8 gap-8'>
+    <div className='flex flex-col justify-center items-center my-8 gap-8 h-full'>
       { /*
         Apresentação - Foto / olá meu nome é Alecsander e sou desenvolvedor BackEnd
         Sobre Mim - Descrição sobre minha pessoa / Tecnologias que utilizo / Graduação
@@ -14,7 +14,7 @@ function Conteudo() {
       <SobreMim />
       <Tecnologias />
       <Projetos />
-      <h2 className='text-5xl text-blue-500 my-4'>Em desenvolvimento!</h2>
+      <h2 className='text-5xl text-sky-700 my-4'>Em desenvolvimento!</h2>
     </div>
   )
 }
